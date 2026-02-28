@@ -1,0 +1,25 @@
+﻿S_Keywords,S_Synonyms,O_Token,O_Hex,O_Pixso_Path
+Primary Main,品牌色 注册 蓝色,AUI-Color_Primary,#0067D1,AUI/Color/Primary
+Primary Hover,品牌色悬停 深蓝,AUI-Color_Primary_Hover,#0057B4,AUI/Color/Primary
+Primary Active,品牌色点击,AUI-Color_Primary_Active,#004A99,AUI/Color/Primary
+Primary Light,品牌色浅色 背景淡蓝,AUI-Color_Primary_Light,#E6F0FA,AUI/Color/Primary
+Primary Faint,品牌色极浅 装饰,AUI-Color_Primary_Faint,#F5F9FE,AUI/Color/Primary
+Success Main,成功色 正确 绿色,AUI-Color_Success,#00A870,AUI/Color/Success
+Success Hover,成功色悬停,AUI-Color_Success_Hover,#009663,AUI/Color/Success
+Success Light,成功色浅色 背景淡绿,AUI-Color_Success_Light,#E6F7F0,AUI/Color/Success
+Info Main,信息色 提示 青色,AUI-Color_Info,#00B5D5,AUI/Color/Info
+Info Light,信息色浅色 背景淡青,AUI-Color_Info_Light,#E6F9FB,AUI/Color/Info
+Warning Main,警告色 注意 橙色,AUI-Color_Warning,#FF8800,AUI/Color/Warning
+Warning Light,警告色浅色 背景淡橙,AUI-Color_Warning_Light,#FFF0E6,AUI/Color/Warning
+Error Main,错误色 危险 红色,AUI-Color_Error,#F53F3F,AUI/Color/Error
+Error Hover,错误色悬停,AUI-Color_Error_Hover,#D33F3F,AUI/Color/Error
+Error Light,错误色浅色 背景淡红,AUI-Color_Error_Light,#FFECE8,AUI/Color/Error
+Text Main,主要文字 标题,AUI-Color_Text_Main,#1D2129,AUI/Text
+Text Secondary,次要文字 描述,AUI-Color_Text_Secondary,#4E5969,AUI/Text
+Text Placeholder,占位文字 禁用,AUI-Color_Text_Placeholder,#86909C,AUI/Text
+Text Disabled,禁用文字,AUI-Color_Text_Disabled,#C9CDD4,AUI/Text
+Border Main,主要边框 分割线,AUI-Color_Border_Main,#E5E6EB,AUI/Border
+Border Light,次要边框,AUI-Color_Border_Light,#F2F3F5,AUI/Border
+Background Main,主背景 页面底色,AUI-Color_BG_Main,#FFFFFF,AUI/Bg/Page
+Background Secondary,次背景 卡片背景,AUI-Color_BG_Secondary,#F7F8FA,AUI/Bg/Page
+Link Main,链接色,AUI-Color_Link,#0067D1,AUI/Link
